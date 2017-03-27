@@ -46,6 +46,7 @@ namespace Laba1_CG
         const int diam = 5;
         bool repaintComp = false;
 
+
         private void Form1_Load(object sender, EventArgs e)
         {
             //inizializing
